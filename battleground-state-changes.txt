@@ -1,8 +1,8 @@
---------------------------------  --------------------------------------------------------------------------------
-Last updated:                     2020-11-08 13:36 UTC
-Latest batch received: (Georgia)  2020-11-08 13:13 UTC
-Prettier web version:             https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
---------------------------------  --------------------------------------------------------------------------------
+----------------------  --------------------------------------------------------------------------------
+Last updated:           2020-11-08 13:45 UTC
+Latest batch received:  2020-11-08 13:13 UTC
+Prettier web version:   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
+----------------------  --------------------------------------------------------------------------------
 
 Alaska (EV: 3) Total Votes: (Trump: 80,999, Biden: 45,758)
 ----------------  ---  ---------------  --------------------  -------------------------  ----------------  ------------------  ----------------
@@ -73,7 +73,7 @@ Arizona (EV: 11) Total Votes: (Biden: 1,630,127, Trump: 1,611,414)
 
 Georgia (EV: 16) Total Votes: (Biden: 2,465,500, Trump: 2,455,305)
 ----------------  ---  ----------------  --------------------  --------------------------  ----------------  ------------------  ----------------
-2020-11-08 13:13  ***  Biden up 10,196   Unknown               Δ:       1 (Biden +50.0%)   99.55% precincts  Unknown             & trends  28.50%
+2020-11-08 13:13  ---  Biden up 10,196   Unknown               Δ:       1 (Biden +50.0%)   99.55% precincts  Unknown             & trends  28.50%
 2020-11-08 07:26  ---  Biden up 10,195   Unknown               Δ:   2,246 (Biden +23.0%)   99.55% precincts  Unknown             & trends  28.50%
 2020-11-07 23:53  ---  Biden up 9,160    Unknown               Δ:   1,982 (Biden +40.7%)   99.55% precincts  Unknown             & trends  28.83%
 2020-11-07 19:46  ---  Biden up 7,547    Unknown               Δ:     125 (Biden + 0.0%)   99.55% precincts  Unknown             & trends  31.18%
