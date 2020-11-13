@@ -1,8 +1,8 @@
--------------------------------  --------------------------------------------------------------------------------
-Last updated:                    2020-11-13 14:01 UTC
-Latest batch received: (Alaska)  2020-11-13 14:00 UTC
-Prettier web version:            https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
--------------------------------  --------------------------------------------------------------------------------
+----------------------  --------------------------------------------------------------------------------
+Last updated:           2020-11-13 14:19 UTC
+Latest batch received:  2020-11-13 14:00 UTC
+Prettier web version:   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
+----------------------  --------------------------------------------------------------------------------
 
 Alaska (EV: 3) Total Votes: (Trump: 168,954, Biden: 131,233)
 ----------------  ---  ---------------  --------------------  -------------------------  -----------------  ------------------  ----------------
@@ -415,7 +415,7 @@ North Carolina (EV: 15) Total Votes: (Trump: 2,744,637, Biden: 2,673,473)
 
 Pennsylvania (EV: 20) Total Votes: (Biden: 3,396,108, Trump: 3,341,382)
 ----------------  ---  ----------------  ----------------------  -------------------------  ----------------  -------------------  ----------------
-2020-11-13 13:33  ***  Biden up 58,440   Unknown                 Δ:   4,409 (Biden +42.1%)  97.33% precincts  Unknown              & trends  39.67%
+2020-11-13 13:33  ---  Biden up 58,440   Unknown                 Δ:   4,409 (Biden +42.1%)  97.33% precincts  Unknown              & trends  39.67%
 2020-11-13 01:30  ---  Biden up 54,726   Left (est.): 3,847      Δ:   4,067 (Biden + 5.6%)  97.33% precincts  Trump needs 760.65%  & trends  42.85%
 2020-11-12 22:21  ---  Biden up 54,273   Left (est.): 7,914      Δ:   1,322 (Trump +12.9%)  97.25% precincts  Trump needs 392.26%  & trends  40.72%
 2020-11-12 21:43  ---  Biden up 54,613   Left (est.): 9,236      Δ:   3,411 (Biden + 9.2%)  97.24% precincts  Trump needs 345.02%  & trends  39.06%
